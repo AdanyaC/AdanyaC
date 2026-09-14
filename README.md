@@ -14,7 +14,7 @@ I'm a Computer Science student focused on building my skills through hands-on pr
 * Learning more about cybersecurity and cloud computing
 * Growing my GitHub portfolio
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools I'm Familar With
 
 Python • C++ • HTML/CSS • Git • GitHub • AWS • VS Code
 
